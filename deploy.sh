@@ -19,6 +19,7 @@ git commit -m 'deploy'
 
 # if you are deploying to https://<USERNAME>.github.io
 # git push -f git@github.com:Nodreame/Nodreame.github.io.git master
+git push --set-upstream https://${GITHUB_TOKEN}@github.com/Nodreame/Nodreame.github.io.git master
 git push -f https://${GITHUB_TOKEN}@github.com/Nodreame/Nodreame.github.io.git
 
 # if you are deploying to https://<USERNAME>.github.io/<REPO>
