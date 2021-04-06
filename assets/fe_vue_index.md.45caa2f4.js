@@ -1,1 +1,0 @@
-import{o as t,c as e}from"./app.be208f73.js";const r='{"title":"","description":"","frontmatter":{},"relativePath":"about/index.md","lastUpdated":1617744308640}',a={};a.render=function(r,a,o,d,i,n){return t(),e("div")};export default a;export{r as __pageData};
